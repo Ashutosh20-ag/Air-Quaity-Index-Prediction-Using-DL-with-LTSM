@@ -224,12 +224,9 @@ If you only want to run the dashboard, the trained models are already included i
 - Hyperparameter tuning and uncertainty estimation (for example, prediction intervals)
 - Deploy the dashboard on Streamlit Community Cloud
 
-## Team
+## creator 
 
-**Group BT_DL_13**, Mentor: **Sachin Raghav**
-
-Saurabh, Ujjwal Sharma, Ashutosh Gupta, Saanvi Mishra, Vineet, Oyshi Agarwal, Abhi Sharma, Pushpveer Arya, Khushwant, Shailesh Gupta, Uday Singh Yadav, Bhuvnesh Yadav, Anushka Bharti, Mohd Jeeshan
-
+-Ashutosh20-ag
 ## Acknowledgements
 
 - Dataset: Rohan Rao, *Air Quality Data in India (2015 - 2020)*, Kaggle (data originally from the Central Pollution Control Board, India)
