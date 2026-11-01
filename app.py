@@ -204,7 +204,7 @@ st.markdown("""
   <div class='logo'>AQ</div>
   <div>
     <h1>Air Quality Forecast</h1>
-    <p>LSTM deep learning forecast for the most polluted cities | Group BT_DL_13 | Mentor: Sachin Raghav</p>
+    <p>    <p>LSTM deep learning forecast for the most polluted cities</p></p>
   </div>
 </div>
 """, unsafe_allow_html=True)
